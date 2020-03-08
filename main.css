@@ -1,0 +1,43 @@
+html{
+    font-family: Arial;
+  }
+  #main{
+    text-align: center;
+    background-color: grey;
+    color: rgba(255,255,255,0.7);
+    padding: 20px 0;
+    margin: 10px, 5px;
+  }
+  #title{
+    font-size: 45px;
+    letter-spacing: 2px;
+   
+  }
+  #img-div #image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  #img-caption{
+    padding: 10px 0;
+  }
+  
+  #tribute-info{
+    margin: 0 auto;
+    text-align: left;
+    width: 500px;
+    padding: 30px 20px;
+    background-color: rgba(0,128,128,0.7);
+    line-height: 2em;
+   
+  }
+  #tribute-info h3{
+    text-align: center;
+    display: block;
+    border-bottom: 2px solid ;
+    padding: 10px 0;
+  }
+  
+  
+  
