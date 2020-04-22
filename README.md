@@ -1,61 +1,35 @@
-MICROVERSE TRAILS COLLABORATIVE PROJECTS #2
+# Tribute Page
 
-I and my coding partner, Egbe Alika chose to work on the tribute page and came up with this code using HTML and CSS.
+> This project was completed during Microverse remote software development pre-trials. The requirement was to collaborate with another developer to build a simple tribute page in any language or framework of choice.
+We built this simple page using html and CSS with emphasis on passing the scipt tests that were embedded to check project. The project would be marked complete if all the checks are passed. 
 
-# Project Name
-
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+![screenshot](./images/screenshot.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML and CSS,
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://raw.githack.com/vanheaven-ui/tribute-page/master/index.html)
 
 ## Authors
 
-👤 **Author1**
+👤 **Egbe Alika**
 
 - Github: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Email: [Email](egbealika@gmail.com) 
 
-👤 **Author2**
+👤 **Mworekwa Ezekiel**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/vanheaven-ui)
+- Twitter: [@twitterhandle](https://twitter.com/MworekwaE)
+- Linkedin: [linkedin](https://linkedin.com/in/vanheaven/)
+- Email: [Email](vanheaven6@gmail.com) 
 
 ## 🤝 Contributing
 
@@ -66,13 +40,3 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
