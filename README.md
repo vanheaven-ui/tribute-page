@@ -1,7 +1,7 @@
 # Tribute Page
 
 > This project was completed during Microverse remote software development pre-trials. The requirement was to collaborate with another developer to build a simple tribute page in any language or framework of choice.
-We built this simple page using html and CSS with emphasis on passing the scipt tests that were embedded to check project. The project would be marked complete if all the checks are passed. 
+We built this simple page using HTML and CSS with emphasis on passing the scipt tests that were embedded to check project. The project would be marked complete if all the checks are passed. 
 
 ![screenshot](./images/screenshot.png)
 
